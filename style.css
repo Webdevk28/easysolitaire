@@ -161,13 +161,16 @@ body {
     float: left;
 }
 
-.scroll .banner-img {
-    width: 98%;
+.scroll .ban-img {
+    width: 35%;
     height: auto;
     flex: 0 0 auto;
-    margin: 0 3% 0 1%;
+    margin: 4% 0;
     border: none;
     outline: none;
+    color: #a2a2a2;
+    font-size: 22px;
+    text-align: center;
 }
 /* ====box-scroll */
 .box-content {
